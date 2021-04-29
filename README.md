@@ -5,6 +5,6 @@ This repo links to sample code repos for each episode of The .NET Show, videos o
 Episode 1 is an interview with James Montemagno. There is no sample code.
 
 ## Episode 2 - Building a Mobile Podcast App Part 1
-Getting started with Xamarin, and a multi-part project to build a podcast consumer app for Carl's long-running podcast, .NET Rocks!
+Getting started with Xamarin Forms, and a multi-part project to build a podcast consumer app for Carl's long-running podcast, .NET Rocks!
 
 Repo: https://github.com/carlfranklin/MobileDnr1
