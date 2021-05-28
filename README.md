@@ -14,4 +14,9 @@ Adding a file cache for mp3 files, downloading podcast metadata, and playing fro
 
 Repo: https://github.com/carlfranklin/MobileDnr2
 
+## Episode 4 - Building a Mobile Podcast App Part 3
+Converting the app to a Flyout shell app, with a slight modification.
+
+Repo: https://github.com/carlfranklin/MobileDnr3
+
 
