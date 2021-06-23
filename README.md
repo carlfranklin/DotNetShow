@@ -19,4 +19,7 @@ Converting the app to a Flyout shell app, with a slight modification.
 
 Repo: https://github.com/carlfranklin/MobileDnr3
 
+## Episode 5 - What's new for MAUI in .NET 6
+Carl welcomes Microsoft’s Jonathan Dick to demo a MAUI app. No Repo.
 
+Video: https://youtu.be/eUrMGCuV_vQ
