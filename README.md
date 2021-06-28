@@ -23,3 +23,8 @@ Repo: https://github.com/carlfranklin/MobileDnr3
 Carl welcomes Microsoft’s Jonathan Dick to demo a MAUI app. No Repo.
 
 Video: https://youtu.be/eUrMGCuV_vQ
+
+## Episode 6 - Building a Mobile Podcast App Part 4
+Adding a detail page and using Shell Navigation to get there.
+
+Repo: https://github.com/carlfranklin/MobileDnr4
