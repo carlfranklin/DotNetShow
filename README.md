@@ -28,3 +28,14 @@ Video: https://youtu.be/eUrMGCuV_vQ
 Adding a detail page and using Shell Navigation to get there.
 
 Repo: https://github.com/carlfranklin/MobileDnr4
+
+## Episode 7 - Building a Mobile Podcast App Part 5
+Enhancing the play features.
+
+Repo: https://github.com/carlfranklin/MobileDnr5
+
+## Episode 8 - Building a Mobile Podcast App Part 6
+Starting to build out a playlist feature.
+
+Repo: https://github.com/carlfranklin/MobileDnr6
+
