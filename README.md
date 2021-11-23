@@ -39,3 +39,27 @@ Starting to build out a playlist feature.
 
 Repo: https://github.com/carlfranklin/MobileDnr6
 
+## Episode 9 - Building a Mobile Podcast App Part 7
+Adding the ability to add and remove shows from the playlist.
+
+Repo: https://github.com/carlfranklin/MobileDnr7
+
+## Episode 10 - Hacking Black Boxes
+What do programmers do when an app doesn't work the way you want? Hack it!
+
+Repo: https://github.com/carlfranklin/SceneReorder
+
+## Episode 11 - Build MAUI apps in an Azure VM
+Install MAUI on a new Azure VM and run apps on your local Android phone.
+There is no sample code.
+
+## Episode 12 - MAUI Xaml vs MAUI Blazor
+Carl explores and compares these two UI models in .NET 6.
+
+Download Code: https://blazordeskshow.com/thedotnetshowfiles/12-MAUIXamlVsBlazor.zip
+
+## Episode 13 - Classes, Records, and Structs. Oh My!
+Carl talks about the differences between these types and why you should know.
+
+
+
