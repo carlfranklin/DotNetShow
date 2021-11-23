@@ -61,5 +61,5 @@ Download Code: https://blazordeskshow.com/thedotnetshowfiles/12-MAUIXamlVsBlazor
 ## Episode 13 - Classes, Records, and Structs. Oh My!
 Carl talks about the differences between these types and why you should know.
 
-
+Repo: https://github.com/carlfranklin/dotnetshow-13
 
